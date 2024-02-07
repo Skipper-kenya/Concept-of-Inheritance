@@ -2,6 +2,8 @@
 #include <string>
 
 using namespace std;
+/*demonstrating the concept of inheritance in c++*/
+
 
 /// we are creating a class named Details with course, age and a name method
 
